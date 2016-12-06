@@ -6,3 +6,5 @@ add a line
 
 last line changed
 real last
+
+stash 연습
